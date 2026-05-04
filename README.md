@@ -1,10 +1,10 @@
 # STYLIFY
 Entregable final del proyecto de documentación, de la asignatura Administración de proyectos TIC, Semestre 2024-2
 
-##Resumen
+## Resumen
 Este repositorio contiene la documentación realizada para la propuesta de la aplicación móvil de ropa llamada "STYLIFY", la cual ayuda a los usuarios a mantener un control de las prendas que tenga en su closet con el fin de ayudar a seleccionar outfits personalizados y recibir recomendaciones de compras basadas a sus preferencias. 
 
-##Contenido del archivo: 
+## Contenido del archivo: 
 - Definición del proyecto.
 - Acta constitutiva.
 - Desglose del alcance del Proyecto.
@@ -12,7 +12,7 @@ Este repositorio contiene la documentación realizada para la propuesta de la ap
 - Bosquejo del presupuesto.
 - Estudio de mercado.
 
-##Integrantes
+## Integrantes
 - Acevedo Serrano Graciela Ximena.
 - Girón Reyes Ingrid Ailin.
 - Pérez Palomeque José Mauricio.
