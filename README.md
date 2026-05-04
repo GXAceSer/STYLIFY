@@ -12,6 +12,11 @@ Este repositorio contiene la documentación realizada para la propuesta de la ap
 - Bosquejo del presupuesto.
 - Estudio de mercado.
 
+## Design Fiction
+Realizado con la herramienta **Figma**
+Link: https://www.figma.com/design/C2uZ3aZrQ2Z1x3e5vYDZLE/DesignFiction_STYLIFY?node-id=0-1&t=WQyL9ZrPmGsABLhA-1
+
+
 ## Integrantes
 - Acevedo Serrano Graciela Ximena.
 - Girón Reyes Ingrid Ailin.
